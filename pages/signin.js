@@ -2,7 +2,7 @@ export default function SignIn() {
     return (
         <div className="bg-hero-pattern h-screen bg-center font-sans">
             <div className="h-screen flex items-center justify-center w-full">
-                <div className="bg-dark-black rounded-lg shadow p-10 w-4/5 lg:w-1/3">
+                <div className="bg-dark-black rounded-lg shadow p-10 w-4/5 lg:w-1/4">
                     <div className="p-2">
                         <img alt="logo" className="mx-auto" src="/Welcome%203/Group%205909.png"/>
                     </div>
